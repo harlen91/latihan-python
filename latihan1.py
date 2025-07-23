@@ -1,2 +1,3 @@
 print("Hello world")
-print("fikom-umi")
+print("fikomumi")
+print("Binus Center")
